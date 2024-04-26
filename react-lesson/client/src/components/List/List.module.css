@@ -1,0 +1,40 @@
+.list {
+	background:  green;
+	width: 250px;
+height: 500px;
+text-align: center
+
+}
+.list-item{
+	width: 200px;
+    height: 100px;
+    background-color:  rgb(231, 105, 124);;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.list-item1{
+	width: 200px;
+    height: 100px;
+    background-color:	blue;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.list-item2{
+	width: 200px;
+    height: 100px;
+    background-color: 	rgb(168, 122, 211);
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}

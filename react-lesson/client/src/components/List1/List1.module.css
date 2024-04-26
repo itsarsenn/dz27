@@ -1,0 +1,30 @@
+.list1 {
+	background:  green;
+	width: 500px;
+height: 500px;
+
+}
+.list1-item{
+   width: 150px;
+   height: 150px;
+   border: 2px solid black;
+   border-radius: 10px;
+   
+}
+.list1-item1{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    top: 400px;
+
+ }
+ .list1-item2{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    border-radius: 100px;
+    top: 570px;
+    left: 1180px;
+ }
